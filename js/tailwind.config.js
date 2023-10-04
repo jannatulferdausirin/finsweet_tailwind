@@ -32,7 +32,7 @@ tailwind.config = {
 backgroundImage : {
 'inquiry_image' : "url('images/woman-writing-on-paper-3228878.png')",
 'projects_image' : "url('images/Card.png')",
-'projects_image_two' : "url('../images/Rectangle 1313.png')",
+'projects_image_two' : "url('images/Rectangle 1313.png')",
 
     
 }
