@@ -13,6 +13,8 @@ tailwind.config = {
                 dark_blue_color : '#282938',
                 light_gray : '#F4F6FC',
                 light_blue : '#5239FA',
+                Royal_blue : '#2405F2',
+
 
 
 
