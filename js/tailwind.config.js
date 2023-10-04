@@ -14,16 +14,8 @@ tailwind.config = {
                 light_gray : '#F4F6FC',
                 light_blue : '#5239FA',
                 Royal_blue : '#2405F2',
-
-
-
-
-
-
-
-
-
-
+             royal :
+                    '#1C1E479B',
 
             }
         },
@@ -38,7 +30,9 @@ tailwind.config = {
 
         },
 backgroundImage : {
-'inquiry_image' : "url('../images/woman-writing-on-paper-3228878.png')",
+'inquiry_image' : "url('images/woman-writing-on-paper-3228878.png')",
+'projects_image' : "url('images/Card.png')",
+'projects_image_two' : "url('../images/Rectangle 1313.png')",
 
     
 }
