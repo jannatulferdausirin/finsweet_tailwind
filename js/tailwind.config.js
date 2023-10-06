@@ -14,8 +14,10 @@ tailwind.config = {
                 light_gray : '#F4F6FC',
                 light_blue : '#5239FA',
                 Royal_blue : '#2405F2',
-             royal :
-                    '#1C1E479B',
+                project_overly_color : "#1C1E538B",
+
+
+
 
             }
         },
@@ -26,20 +28,14 @@ tailwind.config = {
 
             ],
             'secondary_fonts': ['Manrope', 'sans - serif']
-
-
         },
 backgroundImage : {
 'inquiry_image' : "url('images/woman-writing-on-paper-3228878.png')",
 'projects_image' : "url('images/Card.png')",
 'projects_image_two' : "url('images/Rectangle 1313.png')",
+// 'projects_image_overly' : " linear - gradient(329 deg, #1C1E53 - 10.96 %, rgba(28, 30, 83, 0.42)103.96 %)",
 
-    
+
 }
-
-
-
-
-
     }
 }
