@@ -8,7 +8,7 @@ tailwind.config = {
                 white : '#FFFFFF',
                 yellow : '#FCD980',
                 black : '#1B1C2B',
-                light_gray: '#FFFFFF0D',
+                dark_gray: '#FFFFFF0D',
                 overly_color : '#1C1E5380',
                 dark_blue_color : '#282938',
                 light_gray : '#F4F6FC',
